@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1.png",
+    "category": "Website",
+    "links": {
+      "view": "http://127.0.0.1:5500/Portfolio-Website-main/index.html",
+      "code": "https://github.com/swapnilpatel97"
+    }
+  },
+  {
+    "name": "Food Ordering System",
+    "desc": "Simple landing page website built using HTML, CSS, Django framework of python for authentication.",
+    "image": "foodorder1.png",
+    "category": "Basicweb",
+    "links": {
+      "view": "https://github.com/swapnilpatel97",
+      "code": "https://github.com/swapnilpatel97"
+    }
+  }
+  
+]
