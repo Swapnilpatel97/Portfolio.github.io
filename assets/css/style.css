@@ -46,7 +46,7 @@ html::-webkit-scrollbar-thumb {
   top: 0;
   left: 0;
   z-index: 10000;
-  background: #ffffff;
+  background: #f5f0f0;
   display: flex;
   align-items: center;
   justify-content: center;
