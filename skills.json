@@ -54,5 +54,27 @@
     {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
-    }  
+    },
+    {
+        "name": "Angular",
+        "icon": "https://img.icons8.com/?size=100&id=71257&format=png&color=000000"
+        
+    },
+    {
+        "name": "SpringBoot",
+        "icon": "https://img.icons8.com/?size=100&id=90519&format=png&color=000000"
+    },
+    {
+        "name": "Kafka",
+        "icon": "https://img.icons8.com/?size=100&id=fOhLNqGJsUbJ&format=png&color=000000"
+    },
+    {
+        "name": "Docker",
+        "icon": "https://img.icons8.com/?size=100&id=22813&format=png&color=000000"
+    },
+    {
+        "name": "Kubernetes",
+        "icon": "https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000"
+    }
+        
 ]
